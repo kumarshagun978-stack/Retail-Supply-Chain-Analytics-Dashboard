@@ -62,7 +62,7 @@ To solve these challenges, I developed an interactive Retail Supply Chain Sales 
 ![Dashboard Preview](images/dashboard.png)
 
 
-
+[![Dashboard](images/dashboard.png)](images/dashboard.png)
 
 
 
