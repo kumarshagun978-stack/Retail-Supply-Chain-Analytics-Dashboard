@@ -55,13 +55,9 @@ To solve these challenges, I developed an interactive Retail Supply Chain Sales 
 
 -----
 
-# Retail Supply Chain Sales Performance Dashboard.png
-
 ## Dashboard Preview
 
-![Retail Supply Chain Sales Performance Dashboard](images/dashboard.png)
-
-
+![Dashboard](dashboard.png)
 
 
 
