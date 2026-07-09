@@ -15,17 +15,12 @@ The Retail Supply Chain Sales Performance Dashboard is an end-to-end Business In
 
 📊 Key Performance Indicators
 ---
-💰 Total Sales: 733.22K – Total revenue generated from all retail orders.
-
-💵 Total Profit: 93.44K – Overall net profit earned across all transactions.
-
-📦 Total Orders: 2K – Total number of customer orders processed.
-
-🛒 Average Order Value: 434.63 – Average sales revenue generated per order.
-
-📈 Profit per Order: 55.39 – Average profit earned from each order.
-
-🎁 Total Discount: 518.22 – Total discount provided across all orders.
+- 💰 Total Sales: 733.22K – Total revenue generated from all retail orders.
+- 💵 Total Profit: 93.44K – Overall net profit earned across all transactions.
+- 📦 Total Orders: 2K – Total number of customer orders processed.
+- 🛒 Average Order Value: 434.63 – Average sales revenue generated per order.
+- 📈 Profit per Order: 55.39 – Average profit earned from each order.
+- 🎁 Total Discount: 518.22 – Total discount provided across all orders.
 
 ------
 
