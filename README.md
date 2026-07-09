@@ -57,5 +57,27 @@ To solve these challenges, I developed an interactive Retail Supply Chain Sales 
 -----
 ![Dashboard](Dashboard.png)
 
+---
+
+💼 Role : Aspiring Data Analyst
+📧 Email :
+🔗 LinkedIn :https://www.linkedin.com/in/shagun-8544962a0/ 
+📢 Open To Work  : Data Analyst | BI Analyst | Business Analyst
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
