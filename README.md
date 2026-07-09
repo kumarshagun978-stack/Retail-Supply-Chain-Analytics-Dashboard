@@ -26,8 +26,11 @@ The Retail Supply Chain Sales Performance Dashboard is an end-to-end Business In
 📈 Profit per Order: 55.39 – Average profit earned from each order.
 
 🎁 Total Discount: 518.22 – Total discount provided across all orders.
+-----
 
-
+Tools & Technologies
+--
+- Power BI
 
 🚨 Business Problem--
 
