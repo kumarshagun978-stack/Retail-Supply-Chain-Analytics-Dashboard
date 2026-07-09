@@ -14,7 +14,7 @@ The Retail Supply Chain Sales Performance Dashboard is an end-to-end Business In
 --------
 
 📊 Key Performance Indicators
-
+---
 💰 Total Sales: 733.22K – Total revenue generated from all retail orders.
 
 💵 Total Profit: 93.44K – Overall net profit earned across all transactions.
