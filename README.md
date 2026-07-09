@@ -40,15 +40,24 @@ Tools & Technologies
 
 ---
 
-🚨 Business Problem--
+🎯 Project Objectives
+---
+- Monitor monthly and yearly sales trends to support demand forecasting and strategic business planning.
+- Enable stakeholders to make faster, data-driven decisions through interactive dashboards and real-time business insights.
+- Improve reporting efficiency by transforming raw sales data into a structured and easy-to-understand Business Intelligence solution.
+- Demonstrate end-to-end Data Analytics skills, including Data Cleaning, ETL, Data Modeling, DAX, SQL, and Dashboard Development.
 
+---
+📈 Key Business Insights
+---
 
-Retail organizations process 2,000+ customer orders across multiple product categories, regions, and customer segments. However, without a centralized analytics platform, it becomes difficult to identify which products drive revenue, which regions underperform, how discounts impact profitability, and where growth opportunities exist. Manual reporting is time-consuming and often delays business decisions, making it challenging for stakeholders to monitor performance and respond quickly to market changes.
+- 🌍 The West region contributed the highest share of sales, while other regions present opportunities for targeted marketing and expansion.
+- 📱 Phones ranked among the top-performing sub-categories, highlighting strong customer demand for technology product
+- 💰 The business generated ₹733.22K in total sales while achieving ₹93.44K in overall profit, indicating a healthy profit margin.
+- 📦 More than 2,000 customer orders were analyzed, with an Average Order Value of ₹434.63, reflecting strong customer purchasing behavior.
 
-
-
-💡 Solution-- 
-
+💡 Solution
+--
 
 To solve these challenges, I developed an interactive Retail Supply Chain Sales Performance Dashboard using Power BI, SQL, Excel, Power Query, and DAX. The dashboard consolidates business data into a single executive view, enabling stakeholders to monitor ₹733.22K Total Sales, ₹93.44K Total Profit, 2K Customer Orders, and an Average Order Value of ₹434.63 through dynamic KPI cards and interactive visualizations. It provides real-time analysis across product categories, customer segments, regions, and time periods, helping decision-makers identify trends, measure business performance, and make faster, data-driven decisions.
 
