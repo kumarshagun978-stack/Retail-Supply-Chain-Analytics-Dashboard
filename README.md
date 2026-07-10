@@ -6,7 +6,8 @@ Retail Supply Chain Sales Performance Dashboard
 ------
 📌 Project Overview
 
-The Retail Supply Chain Sales Performance Dashboard is an end-to-end Business Intelligence project developed using Power BI, SQL, Excel, Power Query, and DAX. This dashboard analyzes retail sales data to monitor business performance, profitability, customer behavior, and regional sales trends through interactive visualizations. It features key business KPIs such as Total Sales, Total Profit, Total Orders, Average Order Value, and Profit per Order to support data-driven decision-making. The data was cleaned and transformed using Power Query, modeled with a Star Schema, and enhanced with DAX measures for accurate reporting. The dashboard provides actionable insights into product performance, customer segments, and sales trends, demonstrating practical skills in data cleaning, data modeling, business analytics, and dashboard development.
+- The Retail Supply Chain Sales Performance Dashboard is an end-to-end Business Intelligence solution built with Power BI, SQL, Excel, Power Query, and DAX. It transforms raw retail sales data into a single interactive view of business performance, profitability, customer behavior, and regional trends — giving stakeholders a real-time lens into what's driving revenue and what isn't.
+- Raw data was cleaned and shaped in Power Query, structured into a Star Schema data model, and layered with custom DAX measures to power key KPIs including Total Sales, Total Profit, Total Orders, Average Order Value, and Profit per Order. Beyond top-line numbers, the dashboard breaks performance down by product, customer segment, and region, surfacing where profitability is strongest and where it's leaking — insights that support faster, evidence-based decisions rather than static end-of-month reporting.
 
 --------
 
